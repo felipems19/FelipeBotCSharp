@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "3eEs2cqCWPKEvQz737FdgAU+1jzMKhhls+UGz+OPVAA=",
+  "Source": "CoreBot",
+  "BasePath": "_content/CoreBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreBot\\wwwroot",
+      "Source": "CoreBot",
+      "ContentRoot": "C:\\Users\\BairesDev\\Desktop\\FelipeBotCSharp\\wwwroot\\",
+      "BasePath": "_content/CoreBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BairesDev\\Desktop\\FelipeBotCSharp\\wwwroot\\default.htm",
+      "SourceId": "CoreBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BairesDev\\Desktop\\FelipeBotCSharp\\wwwroot\\",
+      "BasePath": "_content/CoreBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
